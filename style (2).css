@@ -350,23 +350,23 @@ h1 {
   text-align: center;
 }
 /* button */
-.btn, a{
+/* .btn, a{
   cursor: pointer;
   background-color: #dc3545 ;
-  color: white;
+  color: white; */
   /* border-radius: 10%; */
-  border-radius: 30%;
+  /* border-radius: 30%;
   border-color: yellow;
   font-weight: bolder;
   font-size: x-large;
   margin-left: 5%;
-  position: absolute; 
+  position: absolute;  */
   /* right: 43.5%;  */
-  right: 10.5%; 
+  /* right: 10.5%; 
   top:0%;
   margin: 1rem 0rem;
   font-weight: bold;
   font-size: 18px;
-}
+} */
 }
   
