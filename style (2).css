@@ -46,8 +46,7 @@ body{
   margin: 5px;
 }
 
-.x{
-  position: absolute;
+.x{ position: absolute;
   left: 3rem;
   top: 10rem
 
